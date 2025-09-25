@@ -22,8 +22,8 @@ Telegram-бот, созданный для мероприятия: Бизнес-
 ---
 
 ## 📸 Скриншоты реализации
-👉 [Основной процесс]([https://t.me/biflex_event_bot](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_main_wf.jpg))  
-👉 [Рассылка презентаций]([https://t.me/biflex_event_bot](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_send_presentation.jpg))  
+👉 [Основной процесс](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_main_wf.jpg)  
+👉 [Рассылка презентаций](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_send_presentation.jpg)  
 
 ---
 
