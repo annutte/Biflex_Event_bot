@@ -32,7 +32,7 @@ Telegram-бот, созданный для мероприятия: Бизнес-
 
 ## 📸 Скриншоты 
 👉 [Работа в Telegram](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot.png)  
-👉 [Реализация в n8n – версия с Grist](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot_grist.png)  
+👉 [Реализация в n8n – версия с Grist](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot_grist_tg_n8n.png)  
 👉 [Реализация в n8n – версия с Google Sheets](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_main_wf.jpg)  
 
 ---
