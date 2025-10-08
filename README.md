@@ -24,7 +24,6 @@ Telegram-бот, созданный для мероприятия: Бизнес-
 ## 📸 Скриншоты 
 👉 [Работа в Telegram](https://github.com/annutte/Biflex_Event_bot/blob/main/img/biflex_event_bot.png)  
 👉 [Реализация в n8n](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_main_wf.jpg)  
-👉 [Рассылка презентаций в n8n](https://github.com/annutte/Biflex_Event_bot/blob/main/img/event_bot_send_presentation.jpg)  
 
 ---
 
@@ -34,11 +33,11 @@ Telegram-бот, созданный для мероприятия: Бизнес-
 ---
 
 ## ⚙️ Технологический стек
-- Telegram Bot API
-- Google PSE API
-- Google Sheets
-- Prompt Igineering
-- ChatGPT-4.1-mini
-- OpenAI API
+- Google Sheets / Grist  
+- Prompt Igineering  
+- ChatGPT-4.1-mini  
+- Telegram Bot API  
+- Google PSE API  
+- OpenAI API  
 - n8n 
 
